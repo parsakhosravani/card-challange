@@ -1,0 +1,7 @@
+.slider-container {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 20px;
+  scroll-snap-type: x mandatory;
+}

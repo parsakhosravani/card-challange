@@ -1,0 +1,16 @@
+.container {
+  width: 600px;
+  margin: 20px auto;
+}
+.button-container {
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+}
+.button {
+  width: 400px;
+  padding: 5px;
+  border: 1px solid #939393;
+  border-radius: 5px;
+  cursor: pointer;
+}

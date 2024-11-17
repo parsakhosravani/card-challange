@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "pan": ["621986"],
+    "name": {
+      "fa": "بانک سامان",
+      "en": "Saman Bank"
+    }
+  },
+  {
+    "id": 2,
+    "pan": ["603799"],
+    "name": {
+      "fa": "بانک ملی ایران",
+      "en": "Bank Melli Iran"
+    }
+  },
+  {
+    "id": 3,
+    "pan": ["589210", "604932", "505801", "636949", "639599", "627381"],
+    "name": {
+      "fa": "بانک سپه",
+      "en": "Bank Sepah"
+    }
+  },
+  {
+    "id": 4,
+    "pan": ["610433", "991975"],
+    "name": {
+      "fa": "بانک ملت",
+      "en": "Bank Mellat"
+    }
+  },
+  {
+    "id": 5,
+    "pan": ["627353", "585983"],
+    "name": {
+      "fa": "بانک تجارت",
+      "en": "Tejarat Bank"
+    }
+  },
+  {
+    "id": 6,
+    "pan": ["603769"],
+    "name": {
+      "fa": "بانک صادرات ایران",
+      "en": "Bank Saderat Iran"
+    }
+  },
+  {
+    "id": 7,
+    "pan": ["603770", "639217"],
+    "name": {
+      "fa": "بانک کشاورزی",
+      "en": "Bank Keshavarzi Iran"
+    }
+  },
+  {
+    "id": 8,
+    "pan": ["628023"],
+    "name": {
+      "fa": "بانک مسکن",
+      "en": "Bank Maskan"
+    }
+  },
+  {
+    "id": 9,
+    "pan": ["627412"],
+    "name": {
+      "fa": "بانک اقتصاد نوین",
+      "en": "EN Bank"
+    }
+  },
+  {
+    "id": 10,
+    "pan": ["622106", "639194", "627884"],
+    "name": {
+      "fa": "بانک پارسیان",
+      "en": "Parsian Bank"
+    }
+  },
+  {
+    "id": 11,
+    "pan": ["505809", "585947"],
+    "name": {
+      "fa": "بانک خاورمیانه",
+      "en": "Middle East Bank"
+    }
+  },
+  {
+    "id": 12,
+    "pan": ["581874"],
+    "name": {
+      "fa": "بانک ایران ونزوئلا",
+      "en": "Iran Venezuela Bi-National Bank"
+    }
+  },
+  {
+    "id": 13,
+    "pan": ["606256"],
+    "name": {
+      "fa": "اعتباری ملل",
+      "en": "Mellal Credit Institute"
+    }
+  },
+  {
+    "id": 14,
+    "pan": ["507677"],
+    "name": {
+      "fa": "اعتباری نور",
+      "en": "Noor Credit Institute"
+    }
+  },
+  {
+    "id": 15,
+    "pan": ["628157"],
+    "name": {
+      "fa": "موسسه توسعه",
+      "en": "Tosse Credit Institute"
+    }
+  },
+  {
+    "id": 16,
+    "pan": ["207177", "627648"],
+    "name": {
+      "fa": "بانک توسعه صادرات ایران",
+      "en": "Export Development Bank of Iran"
+    }
+  },
+  {
+    "id": 17,
+    "pan": ["502229", "639347"],
+    "name": {
+      "fa": "بانک پاسارگاد",
+      "en": "Bank Pasargad"
+    }
+  },
+  {
+    "id": 18,
+    "pan": ["505785"],
+    "name": {
+      "fa": "بانک ایران زمین",
+      "en": "Iran Zamin Bank"
+    }
+  },
+  {
+    "id": 19,
+    "pan": ["504706", "502806"],
+    "name": {
+      "fa": "بانک شهر",
+      "en": "Shahr Bank"
+    }
+  },
+  {
+    "id": 20,
+    "pan": ["502908"],
+    "name": {
+      "fa": "بانک توسعه تعاون",
+      "en": "Tose'e Ta'avon Bank"
+    }
+  },
+  {
+    "id": 21,
+    "pan": ["502910", "627488"],
+    "name": {
+      "fa": "بانک کارآفرین",
+      "en": "Karafarin Bank"
+    }
+  },
+  {
+    "id": 22,
+    "pan": ["502938"],
+    "name": {
+      "fa": "بانک دی",
+      "en": "Bank Day"
+    }
+  },
+  {
+    "id": 23,
+    "pan": ["505416"],
+    "name": {
+      "fa": "بانک گردشگری",
+      "en": "Tourism Bank"
+    }
+  },
+  {
+    "id": 24,
+    "pan": ["636214"],
+    "name": {
+      "fa": "بانک آینده",
+      "en": "Ayandeh Bank"
+    }
+  },
+  {
+    "id": 25,
+    "pan": ["589463"],
+    "name": {
+      "fa": "بانک رفاه کارگران",
+      "en": "Refah Bank"
+    }
+  },
+  {
+    "id": 26,
+    "pan": ["606373"],
+    "name": {
+      "fa": "بانک قرض الحسنه مهر ایران",
+      "en": "Qarz Al-Hasaneh Mehr Iran Bank"
+    }
+  },
+  {
+    "id": 27,
+    "pan": ["639607"],
+    "name": {
+      "fa": "بانک سرمایه",
+      "en": "Sarmayeh Bank"
+    }
+  },
+  {
+    "id": 28,
+    "pan": ["639346"],
+    "name": {
+      "fa": "بانک سینا",
+      "en": "Sina Bank"
+    }
+  },
+  {
+    "id": 29,
+    "pan": ["627961"],
+    "name": {
+      "fa": "بانک صنعت و معدن",
+      "en": "Bank of Industry and Mine"
+    }
+  },
+  {
+    "id": 30,
+    "pan": ["627760"],
+    "name": {
+      "fa": "پست بانک ایران",
+      "en": "Post Bank of Iran"
+    }
+  },
+  {
+    "id": 31,
+    "pan": ["636795"],
+    "name": {
+      "fa": "بانک مرکزی",
+      "en": "Central Bank of the Islamic Republic of Iran"
+    }
+  },
+  {
+    "id": 32,
+    "pan": ["504172"],
+    "name": {
+      "fa": "بانک رسالت",
+      "en": "Resalat Qard al-Hasan Bank"
+    }
+  }
+]

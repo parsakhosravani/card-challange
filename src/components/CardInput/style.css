@@ -1,0 +1,39 @@
+.card-container {
+  width: 400px;
+  aspect-ratio: 1.8;
+  background-color: #dedede;
+  box-shadow: #b3b3b3 3px 3px 7px 0px;
+  margin: 10px auto;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-header {
+  display: flex;
+  width: 100%;
+  justify-content: right;
+  align-items: center;
+  padding: 0 20px;
+  margin: 20px auto;
+}
+
+.card-input-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto 20px 50px 20px;
+}
+
+.card-input {
+  width: 70px;
+  text-align: center;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none; /* This line ensures no focus outline appears */
+}
+
+.card-input:focus-visible {
+  border-bottom: 1px solid black; /* Reiterate border style for clarity and specificity */
+  outline: none; /* Ensure no outline on focus */
+}
